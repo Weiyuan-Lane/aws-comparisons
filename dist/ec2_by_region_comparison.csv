@@ -1,0 +1,808 @@
+InstanceType,FreeTierEligible,ProcessorInfo.Manufacturer,NetworkInfo.NetworkPerformance,EbsInfo.EbsOptimizedInfo.BaselineBandwidthInMbps,EbsInfo.EbsOptimizedInfo.BaselineThroughputInMBps,EbsInfo.EbsOptimizedInfo.MaximumBandwidthInMbps,EbsInfo.EbsOptimizedInfo.MaximumThroughputInMBps,EbsInfo.EbsOptimizedInfo.BaselineIops,EbsInfo.EbsOptimizedInfo.MaximumIops,Asia Pacific (Malaysia) - ap-southeast-5,Asia Pacific (Tokyo) - ap-northeast-1,Asia Pacific (Singapore) - ap-southeast-1,Asia Pacific (Sydney) - ap-southeast-2,US East (N. Virginia) - us-east-1
+a1.2xlarge,False,AWS,Up to 10 Gigabit,1750,218.75,3500,437.5,10000,20000,False,True,True,True,True
+a1.4xlarge,False,AWS,Up to 10 Gigabit,3500,437.5,3500,437.5,20000,20000,False,True,True,True,True
+a1.large,False,AWS,Up to 10 Gigabit,525,65.625,3500,437.5,4000,20000,False,True,True,True,True
+a1.medium,False,AWS,Up to 10 Gigabit,300,37.5,3500,437.5,2500,20000,False,True,True,True,True
+a1.metal,False,AWS,Up to 10 Gigabit,3500,437.5,3500,437.5,20000,20000,False,True,True,True,True
+a1.xlarge,False,AWS,Up to 10 Gigabit,800,100.0,3500,437.5,6000,20000,False,True,True,True,True
+c1.medium,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+c1.xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+c3.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+c3.4xlarge,False,Intel,High,2000,250.0,2000,250.0,16000,16000,False,True,True,True,True
+c3.8xlarge,False,Intel,10 Gigabit,-,-,-,-,-,-,False,True,True,True,True
+c3.large,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+c3.xlarge,False,Intel,Moderate,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+c4.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+c4.4xlarge,False,Intel,High,2000,250.0,2000,250.0,16000,16000,False,True,True,True,True
+c4.8xlarge,False,Intel,10 Gigabit,4000,500.0,4000,500.0,32000,32000,False,True,True,True,True
+c4.large,False,Intel,Moderate,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+c4.xlarge,False,Intel,High,750,93.75,750,93.75,6000,6000,False,True,True,True,True
+c5.12xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c5.18xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5.2xlarge,False,Intel,Up to 10 Gigabit,2300,287.5,4750,593.75,10000,20000,False,True,True,True,True
+c5.4xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+c5.9xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c5.large,False,Intel,Up to 10 Gigabit,650,81.25,4750,593.75,4000,20000,False,True,True,True,True
+c5.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5.xlarge,False,Intel,Up to 10 Gigabit,1150,143.75,4750,593.75,6000,20000,False,True,True,True,True
+c5a.12xlarge,False,AMD,12 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+c5a.16xlarge,False,AMD,20 Gigabit,6300,787.5,6300,787.5,26700,26700,False,True,True,True,True
+c5a.24xlarge,False,AMD,20 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c5a.2xlarge,False,AMD,Up to 10 Gigabit,800,100.0,3170,396.25,3200,13300,False,True,True,True,True
+c5a.4xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,3170,396.25,6600,13300,False,True,True,True,True
+c5a.8xlarge,False,AMD,10 Gigabit,3170,396.25,3170,396.25,13300,13300,False,True,True,True,True
+c5a.large,False,AMD,Up to 10 Gigabit,200,25.0,3170,396.25,800,13300,False,True,True,True,True
+c5a.xlarge,False,AMD,Up to 10 Gigabit,400,50.0,3170,396.25,1600,13300,False,True,True,True,True
+c5ad.12xlarge,False,AMD,12 Gigabit,4750,593.75,4750,593.75,20000,20000,False,False,True,True,True
+c5ad.16xlarge,False,AMD,20 Gigabit,6300,787.5,6300,787.5,26700,26700,False,False,True,True,True
+c5ad.24xlarge,False,AMD,20 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,False,True,True,True
+c5ad.2xlarge,False,AMD,Up to 10 Gigabit,800,100.0,3170,396.25,3200,13300,False,False,True,True,True
+c5ad.4xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,3170,396.25,6600,13300,False,False,True,True,True
+c5ad.8xlarge,False,AMD,10 Gigabit,3170,396.25,3170,396.25,13300,13300,False,False,True,True,True
+c5ad.large,False,AMD,Up to 10 Gigabit,200,25.0,3170,396.25,800,13300,False,False,True,True,True
+c5ad.xlarge,False,AMD,Up to 10 Gigabit,400,50.0,3170,396.25,1600,13300,False,False,True,True,True
+c5d.12xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c5d.18xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5d.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5d.2xlarge,False,Intel,Up to 10 Gigabit,2300,287.5,4750,593.75,10000,20000,False,True,True,True,True
+c5d.4xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+c5d.9xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c5d.large,False,Intel,Up to 10 Gigabit,650,81.25,4750,593.75,4000,20000,False,True,True,True,True
+c5d.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5d.xlarge,False,Intel,Up to 10 Gigabit,1150,143.75,4750,593.75,6000,20000,False,True,True,True,True
+c5n.18xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5n.2xlarge,False,Intel,Up to 25 Gigabit,2300,287.5,4750,593.75,10000,20000,False,True,True,True,True
+c5n.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+c5n.9xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c5n.large,False,Intel,Up to 25 Gigabit,650,81.25,4750,593.75,4000,20000,False,True,True,True,True
+c5n.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c5n.xlarge,False,Intel,Up to 25 Gigabit,1150,143.75,4750,593.75,6000,20000,False,True,True,True,True
+c6a.12xlarge,False,AMD,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,True,True,True,True
+c6a.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+c6a.24xlarge,False,AMD,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,True,True,True
+c6a.2xlarge,False,AMD,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,True,True,True
+c6a.32xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,True,True,True
+c6a.48xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,True,True,True
+c6a.4xlarge,False,AMD,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+c6a.8xlarge,False,AMD,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,True,True,True
+c6a.large,False,AMD,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,False,True,True,True,True
+c6a.metal,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,True,True,True
+c6a.xlarge,False,AMD,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,True,True,True
+c6g.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,50000,50000,True,True,True,True,True
+c6g.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+c6g.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,True,True,True,True,True
+c6g.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,True,True,True,True,True
+c6g.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,True,True,True,True,True
+c6g.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,True,True,True,True,True
+c6g.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,True,True,True,True,True
+c6g.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+c6g.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,True,True,True,True,True
+c6gd.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,50000,50000,False,True,True,True,True
+c6gd.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c6gd.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,False,True,True,True,True
+c6gd.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+c6gd.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+c6gd.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,False,True,True,True,True
+c6gd.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,False,True,True,True,True
+c6gd.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+c6gd.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,False,True,True,True,True
+c6gn.12xlarge,False,AWS,75 Gigabit,28500,3562.5,28500,3562.5,120000,120000,True,True,True,True,True
+c6gn.16xlarge,False,AWS,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,True,True,True,True,True
+c6gn.2xlarge,False,AWS,Up to 25 Gigabit,4750,593.75,9500,1187.5,20000,40000,True,True,True,True,True
+c6gn.4xlarge,False,AWS,25 Gigabit,9500,1187.5,9500,1187.5,40000,40000,True,True,True,True,True
+c6gn.8xlarge,False,AWS,50 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+c6gn.large,False,AWS,Up to 25 Gigabit,1235,154.375,9500,1187.5,5000,40000,True,True,True,True,True
+c6gn.medium,False,AWS,Up to 16 Gigabit,760,95.0,9500,1187.5,2500,40000,True,True,True,True,True
+c6gn.xlarge,False,AWS,Up to 25 Gigabit,2375,296.88,9500,1187.5,10000,40000,True,True,True,True,True
+c6i.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+c6i.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+c6i.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+c6i.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+c6i.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+c6i.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+c6i.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+c6i.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+c6i.metal,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+c6i.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+c6id.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+c6id.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+c6id.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+c6id.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+c6id.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+c6id.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+c6id.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+c6id.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+c6id.metal,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+c6id.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+c6in.12xlarge,False,Intel,75 Gigabit,37500,4687.5,37500,4687.5,150000,150000,False,True,True,True,True
+c6in.16xlarge,False,Intel,100 Gigabit,50000,6250.0,50000,6250.0,200000,200000,False,True,True,True,True
+c6in.24xlarge,False,Intel,150 Gigabit,75000,9375.0,75000,9375.0,300000,300000,False,True,True,True,True
+c6in.2xlarge,False,Intel,Up to 40 Gigabit,6250,781.25,25000,3125.0,25000,100000,False,True,True,True,True
+c6in.32xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,True,True
+c6in.4xlarge,False,Intel,Up to 50 Gigabit,12500,1562.5,25000,3125.0,50000,100000,False,True,True,True,True
+c6in.8xlarge,False,Intel,50 Gigabit,25000,3125.0,25000,3125.0,100000,100000,False,True,True,True,True
+c6in.large,False,Intel,Up to 25 Gigabit,1562,195.3125,25000,3125.0,6250,100000,False,True,True,True,True
+c6in.metal,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,True,True
+c6in.xlarge,False,Intel,Up to 30 Gigabit,3125,390.625,25000,3125.0,12500,100000,False,True,True,True,True
+c7a.12xlarge,False,AMD,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,True,False,False,True
+c7a.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,False,False,True
+c7a.24xlarge,False,AMD,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,False,False,True
+c7a.2xlarge,False,AMD,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,False,False,True
+c7a.32xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,False,False,True
+c7a.48xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,False,False,True
+c7a.4xlarge,False,AMD,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,False,False,True
+c7a.8xlarge,False,AMD,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,False,False,True
+c7a.large,False,AMD,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,False,True,False,False,True
+c7a.medium,False,AMD,Up to 12.5 Gigabit,325,40.625,10000,1250.0,2500,40000,False,True,False,False,True
+c7a.metal-48xl,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,False,False,True
+c7a.xlarge,False,AMD,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,False,False,True
+c7g.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+c7g.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+c7g.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+c7g.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+c7g.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+c7g.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,True,True,True,True,True
+c7g.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,True,True,True,True,True
+c7g.metal,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+c7g.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25039999999998,10000,1250.0,6000,40000,True,True,True,True,True
+c7gd.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+c7gd.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+c7gd.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+c7gd.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+c7gd.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+c7gd.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,True,True,True,True,True
+c7gd.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,True,True,True,True,True
+c7gd.metal,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+c7gd.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25039999999998,10000,1250.0,6000,40000,True,True,True,True,True
+c7gn.12xlarge,False,AWS,150 Gigabit,25000,3125.0,30000,3750.0,100000,120000,False,True,False,False,True
+c7gn.16xlarge,False,AWS,200 Gigabit,33333,4166.625,40000,5000.0,133333,160000,False,True,False,False,True
+c7gn.2xlarge,False,AWS,Up to 50 Gigabit,4167,520.875,10000,1250.0,16667,40000,False,True,False,False,True
+c7gn.4xlarge,False,AWS,50 Gigabit,8333,1041.625,10000,1250.0,33333,40000,False,True,False,False,True
+c7gn.8xlarge,False,AWS,100 Gigabit,16667,2083.375,20000,2500.0,66667,80000,False,True,False,False,True
+c7gn.large,False,AWS,Up to 30 Gigabit,1042,130.25,10000,1250.0,4167,40000,False,True,False,False,True
+c7gn.medium,False,AWS,Up to 25 Gigabit,521,65.125,10000,1250.0,2083,40000,False,True,False,False,True
+c7gn.metal,False,AWS,200 Gigabit,33333,4166.625,40000,5000.0,133333,160000,False,True,False,False,True
+c7gn.xlarge,False,AWS,Up to 40 Gigabit,2083,260.375,10000,1250.0,8333,40000,False,True,False,False,True
+c7i-flex.2xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,True,True,True
+c7i-flex.4xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,True,True,True
+c7i-flex.8xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+c7i-flex.large,False,Intel,Up to 12.5 Gigabit,312,39.0625,10000,1250.0,2500,40000,False,True,True,True,True
+c7i-flex.xlarge,False,Intel,Up to 12.5 Gigabit,625,78.125,10000,1250.0,3600,40000,False,True,True,True,True
+c7i.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+c7i.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+c7i.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+c7i.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+c7i.48xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,True,True,True,True,True
+c7i.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+c7i.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+c7i.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+c7i.metal-24xl,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+c7i.metal-48xl,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,True,True,True,True,True
+c7i.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+d2.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+d2.4xlarge,False,Intel,High,2000,250.0,2000,250.0,16000,16000,False,True,True,True,True
+d2.8xlarge,False,Intel,10 Gigabit,4000,500.0,4000,500.0,32000,32000,False,True,True,True,True
+d2.xlarge,False,Intel,Moderate,750,93.75,750,93.75,6000,6000,False,True,True,True,True
+d3.2xlarge,False,Intel,Up to 15 Gigabit,1700,212.5,2800,350.0,10000,15000,False,True,True,True,True
+d3.4xlarge,False,Intel,Up to 15 Gigabit,2800,350.0,2800,350.0,15000,15000,False,True,True,True,True
+d3.8xlarge,False,Intel,25 Gigabit,5000,625.0,5000,625.0,30000,30000,False,True,True,True,True
+d3.xlarge,False,Intel,Up to 15 Gigabit,850,106.25,2800,350.0,5000,15000,False,True,True,True,True
+d3en.12xlarge,False,Intel,75 Gigabit,7000,875.0,7000,875.0,40000,40000,False,True,True,False,True
+d3en.2xlarge,False,Intel,Up to 25 Gigabit,1700,212.5,2800,350.0,10000,15000,False,True,True,False,True
+d3en.4xlarge,False,Intel,25 Gigabit,2800,350.0,2800,350.0,15000,15000,False,True,True,False,True
+d3en.6xlarge,False,Intel,40 Gigabit,4000,500.0,4000,500.0,25000,25000,False,True,True,False,True
+d3en.8xlarge,False,Intel,50 Gigabit,5000,625.0,5000,625.0,30000,30000,False,True,True,False,True
+d3en.xlarge,False,Intel,Up to 25 Gigabit,850,106.25,2800,350.0,5000,15000,False,True,True,False,True
+dl1.24xlarge,False,Intel,4x 100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,False,False,False,True
+f1.16xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,75000,75000,False,False,False,True,True
+f1.2xlarge,False,Intel,Up to 10 Gigabit,1700,212.5,1700,212.5,12000,12000,False,False,False,True,True
+f1.4xlarge,False,Intel,Up to 10 Gigabit,3500,437.5,3500,437.5,44000,44000,False,False,False,True,True
+g3.16xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,80000,80000,False,True,True,True,True
+g3.4xlarge,False,Intel,Up to 10 Gigabit,3500,437.5,3500,437.5,20000,20000,False,True,True,True,True
+g3.8xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,40000,40000,False,True,True,True,True
+g3s.xlarge,False,Intel,Up to 10 Gigabit,850,106.25,850,106.25,5000,5000,False,True,False,True,True
+g4ad.16xlarge,False,AMD,25 Gigabit,6300,787.5,6300,787.5,26667,26667,False,True,False,False,True
+g4ad.2xlarge,False,AMD,Up to 10 Gigabit,800,100.0,3170,396.25,3400,13333,False,True,False,False,True
+g4ad.4xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,3170,396.25,6700,13333,False,True,False,False,True
+g4ad.8xlarge,False,AMD,15 Gigabit,3170,396.25,3170,396.25,13333,13333,False,True,False,False,True
+g4ad.xlarge,False,AMD,Up to 10 Gigabit,400,50.0,3170,396.25,1700,13333,False,True,False,False,True
+g4dn.12xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+g4dn.16xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+g4dn.2xlarge,False,Intel,Up to 25 Gigabit,1150,143.75,3500,437.5,6000,20000,False,True,True,True,True
+g4dn.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+g4dn.8xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+g4dn.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+g4dn.xlarge,False,Intel,Up to 25 Gigabit,950,118.75,3500,437.5,3000,20000,False,True,True,True,True
+g5.12xlarge,False,AMD,40 Gigabit,16000,2000.0,16000,2000.0,65000,65000,False,True,False,True,True
+g5.16xlarge,False,AMD,25 Gigabit,16000,2000.0,16000,2000.0,65000,65000,False,True,False,True,True
+g5.24xlarge,False,AMD,50 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,True,True
+g5.2xlarge,False,AMD,Up to 10 Gigabit,850,106.25,3500,437.5,3500,15000,False,True,False,True,True
+g5.48xlarge,False,AMD,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,True,True
+g5.4xlarge,False,AMD,Up to 25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,False,True,True
+g5.8xlarge,False,AMD,25 Gigabit,16000,2000.0,16000,2000.0,65000,65000,False,True,False,True,True
+g5.xlarge,False,AMD,Up to 10 Gigabit,700,87.5,3500,437.5,3000,15000,False,True,False,True,True
+g5g.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,False,True
+g5g.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,False,True,True,False,True
+g5g.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,False,True
+g5g.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,False,True
+g5g.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,False,True
+g5g.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,False,True,True,False,True
+g6.12xlarge,False,AMD,40 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,False,False,False,True
+g6.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,False,False,False,True
+g6.24xlarge,False,AMD,50 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,False,False,False,True
+g6.2xlarge,False,AMD,Up to 10 Gigabit,2000,250.0,5000,625.0,8000,20000,False,False,False,False,True
+g6.48xlarge,False,AMD,100 Gigabit,60000,7500.0,60000,7500.0,240000,240000,False,False,False,False,True
+g6.4xlarge,False,AMD,Up to 25 Gigabit,8000,1000.0,8000,1000.0,32000,32000,False,False,False,False,True
+g6.8xlarge,False,AMD,25 Gigabit,16000,2000.0,16000,2000.0,64000,64000,False,False,False,False,True
+g6.xlarge,False,AMD,Up to 10 Gigabit,1000,125.0,5000,625.0,4000,20000,False,False,False,False,True
+g6e.12xlarge,False,AMD,100 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,False,False,False,True
+g6e.16xlarge,False,AMD,35 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,False,False,False,True
+g6e.24xlarge,False,AMD,200 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,False,False,False,True
+g6e.2xlarge,False,AMD,Up to 20 Gigabit,2000,250.0,5000,625.0,8000,20000,False,False,False,False,True
+g6e.48xlarge,False,AMD,400 Gigabit,60000,7500.0,60000,7500.0,240000,240000,False,False,False,False,True
+g6e.4xlarge,False,AMD,20 Gigabit,8000,1000.0,8000,1000.0,32000,32000,False,False,False,False,True
+g6e.8xlarge,False,AMD,25 Gigabit,16000,2000.0,16000,2000.0,64000,64000,False,False,False,False,True
+g6e.xlarge,False,AMD,Up to 20 Gigabit,1000,125.0,5000,625.0,4000,20000,False,False,False,False,True
+gr6.4xlarge,False,AMD,Up to 25 Gigabit,8000,1000.0,8000,1000.0,32000,32000,False,False,False,False,True
+gr6.8xlarge,False,AMD,25 Gigabit,16000,2000.0,16000,2000.0,64000,64000,False,False,False,False,True
+h1.16xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,80000,80000,False,False,False,False,True
+h1.2xlarge,False,Intel,Up to 10 Gigabit,1750,218.75,1750,218.75,12000,12000,False,False,False,False,True
+h1.4xlarge,False,Intel,Up to 10 Gigabit,3500,437.5,3500,437.5,20000,20000,False,False,False,False,True
+h1.8xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,40000,40000,False,False,False,False,True
+hpc6a.48xlarge,False,AMD,100 Gigabit,87,10.875,2085,260.625,500,11000,False,False,True,True,False
+hpc7g.16xlarge,False,AWS,200 Gigabit,87,10.875,2085,260.625,500,11000,False,True,False,False,True
+hpc7g.4xlarge,False,AWS,200 Gigabit,87,10.875,2085,260.625,500,11000,False,True,False,False,True
+hpc7g.8xlarge,False,AWS,200 Gigabit,87,10.875,2085,260.625,500,11000,False,True,False,False,True
+i2.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+i2.4xlarge,False,Intel,High,2000,250.0,2000,250.0,16000,16000,False,True,True,True,True
+i2.8xlarge,False,Intel,10 Gigabit,-,-,-,-,-,-,False,True,True,True,True
+i2.xlarge,False,Intel,Moderate,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+i3.16xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,65000,65000,False,True,True,True,True
+i3.2xlarge,False,Intel,Up to 10 Gigabit,1700,212.5,1700,212.5,12000,12000,False,True,True,True,True
+i3.4xlarge,False,Intel,Up to 10 Gigabit,3500,437.5,3500,437.5,16000,16000,False,True,True,True,True
+i3.8xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,32500,32500,False,True,True,True,True
+i3.large,False,Intel,Up to 10 Gigabit,425,53.125,425,53.125,3000,3000,False,True,True,True,True
+i3.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+i3.xlarge,False,Intel,Up to 10 Gigabit,850,106.25,850,106.25,6000,6000,False,True,True,True,True
+i3en.12xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,True,True,True,True,True
+i3en.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+i3en.2xlarge,False,Intel,Up to 25 Gigabit,2307,288.3875,4750,593.75,12000,20000,True,True,True,True,True
+i3en.3xlarge,False,Intel,Up to 25 Gigabit,3800,475.0,4750,593.75,15000,20000,True,True,True,True,True
+i3en.6xlarge,False,Intel,25 Gigabit,4750,593.75,4750,593.75,20000,20000,True,True,True,True,True
+i3en.large,False,Intel,Up to 25 Gigabit,576,72.1,4750,593.75,3000,20000,True,True,True,True,True
+i3en.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+i3en.xlarge,False,Intel,Up to 25 Gigabit,1153,144.2,4750,593.75,6000,20000,True,True,True,True,True
+i4g.16xlarge,False,AWS,37.5 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,False,True,False,True
+i4g.2xlarge,False,AWS,Up to 12 Gigabit,2500,312.5,10000,1250.0,10000,40000,False,False,True,False,True
+i4g.4xlarge,False,AWS,Up to 25 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,False,True,False,True
+i4g.8xlarge,False,AWS,18.75 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,False,True,False,True
+i4g.large,False,AWS,Up to 10 Gigabit,625,78.125,10000,1250.0,2500,40000,False,False,True,False,True
+i4g.xlarge,False,AWS,Up to 10 Gigabit,1250,156.25,10000,1250.0,5000,40000,False,False,True,False,True
+i4i.12xlarge,False,Intel,28.12 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+i4i.16xlarge,False,Intel,37.5 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+i4i.24xlarge,False,Intel,56.25 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+i4i.2xlarge,False,Intel,Up to 12 Gigabit,2500,312.5,10000,1250.0,10000,40000,True,True,True,True,True
+i4i.32xlarge,False,Intel,75 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+i4i.4xlarge,False,Intel,Up to 25 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+i4i.8xlarge,False,Intel,18.75 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+i4i.large,False,Intel,Up to 10 Gigabit,625,78.125,10000,1250.0,2500,40000,True,True,True,True,True
+i4i.metal,False,Intel,75 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+i4i.xlarge,False,Intel,Up to 10 Gigabit,1250,156.25,10000,1250.0,5000,40000,True,True,True,True,True
+im4gn.16xlarge,False,AWS,100 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,True,True,True
+im4gn.2xlarge,False,AWS,Up to 25 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+im4gn.4xlarge,False,AWS,25 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,True,True,True
+im4gn.8xlarge,False,AWS,50 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+im4gn.large,False,AWS,Up to 25 Gigabit,1250,156.25,10000,1250.0,5000,40000,False,True,True,True,True
+im4gn.xlarge,False,AWS,Up to 25 Gigabit,2500,312.5,10000,1250.0,10000,40000,False,True,True,True,True
+inf1.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+inf1.2xlarge,False,Intel,Up to 25 Gigabit,1190,148.75,4750,593.75,6000,20000,False,True,True,True,True
+inf1.6xlarge,False,Intel,25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+inf1.xlarge,False,Intel,Up to 25 Gigabit,1190,148.75,4750,593.75,4000,20000,False,True,True,True,True
+inf2.24xlarge,False,AMD,50 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,True,True,True
+inf2.48xlarge,False,AMD,100 Gigabit,60000,7500.0,60000,7500.0,240000,240000,False,True,True,True,True
+inf2.8xlarge,False,AMD,Up to 25 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,True,True,True
+inf2.xlarge,False,AMD,Up to 15 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,True,True,True
+is4gen.2xlarge,False,AWS,Up to 25 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+is4gen.4xlarge,False,AWS,25 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,True,True,True
+is4gen.8xlarge,False,AWS,50 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+is4gen.large,False,AWS,Up to 25 Gigabit,1250,156.25,10000,1250.0,5000,40000,False,True,True,True,True
+is4gen.medium,False,AWS,Up to 25 Gigabit,625,78.125,10000,1250.0,2500,40000,False,True,True,True,True
+is4gen.xlarge,False,AWS,Up to 25 Gigabit,2500,312.5,10000,1250.0,10000,40000,False,True,True,True,True
+m1.large,False,Intel,Moderate,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+m1.medium,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+m1.small,False,Intel,Low,-,-,-,-,-,-,False,True,True,True,True
+m1.xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+m2.2xlarge,False,Intel,Moderate,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+m2.4xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+m2.xlarge,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+m3.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+m3.large,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+m3.medium,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+m3.xlarge,False,Intel,High,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+m4.10xlarge,False,Intel,10 Gigabit,4000,500.0,4000,500.0,32000,32000,False,True,True,True,True
+m4.16xlarge,False,Intel,25 Gigabit,10000,1250.0,10000,1250.0,65000,65000,False,True,True,True,True
+m4.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+m4.4xlarge,False,Intel,High,2000,250.0,2000,250.0,16000,16000,False,True,True,True,True
+m4.large,False,Intel,Moderate,450,56.25,450,56.25,3600,3600,False,True,True,True,True
+m4.xlarge,False,Intel,High,750,93.75,750,93.75,6000,6000,False,True,True,True,True
+m5.12xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+m5.16xlarge,False,Intel,20 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,True,True
+m5.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+m5.2xlarge,False,Intel,Up to 10 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,True,True
+m5.4xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,True,True
+m5.8xlarge,False,Intel,10 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,True,True
+m5.large,False,Intel,Up to 10 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,True,True
+m5.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+m5.xlarge,False,Intel,Up to 10 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,True,True
+m5a.12xlarge,False,AMD,10 Gigabit,6780,847.5,6780,847.5,30000,30000,False,True,True,True,True
+m5a.16xlarge,False,AMD,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+m5a.24xlarge,False,AMD,20 Gigabit,13750,1718.75,13750,1718.75,60000,60000,False,True,True,True,True
+m5a.2xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,2880,360.0,8333,16000,False,True,True,True,True
+m5a.4xlarge,False,AMD,Up to 10 Gigabit,2880,360.0,2880,360.0,16000,16000,False,True,True,True,True
+m5a.8xlarge,False,AMD,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+m5a.large,False,AMD,Up to 10 Gigabit,650,81.25,2880,360.0,3600,16000,False,True,True,True,True
+m5a.xlarge,False,AMD,Up to 10 Gigabit,1085,135.625,2880,360.0,6000,16000,False,True,True,True,True
+m5ad.12xlarge,False,AMD,10 Gigabit,6780,847.5,6780,847.5,30000,30000,False,True,True,True,True
+m5ad.16xlarge,False,AMD,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+m5ad.24xlarge,False,AMD,20 Gigabit,13750,1718.75,13750,1718.75,60000,60000,False,True,True,True,True
+m5ad.2xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,2880,360.0,8333,16000,False,True,True,True,True
+m5ad.4xlarge,False,AMD,Up to 10 Gigabit,2880,360.0,2880,360.0,16000,16000,False,True,True,True,True
+m5ad.8xlarge,False,AMD,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+m5ad.large,False,AMD,Up to 10 Gigabit,650,81.25,2880,360.0,3600,16000,False,True,True,True,True
+m5ad.xlarge,False,AMD,Up to 10 Gigabit,1085,135.625,2880,360.0,6000,16000,False,True,True,True,True
+m5d.12xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+m5d.16xlarge,False,Intel,20 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,True,True
+m5d.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+m5d.2xlarge,False,Intel,Up to 10 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,True,True
+m5d.4xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,True,True
+m5d.8xlarge,False,Intel,10 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,True,True
+m5d.large,False,Intel,Up to 10 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,True,True
+m5d.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+m5d.xlarge,False,Intel,Up to 10 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,True,True
+m5dn.12xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,False,True
+m5dn.16xlarge,False,Intel,75 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,False,True
+m5dn.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,False,True
+m5dn.2xlarge,False,Intel,Up to 25 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,False,True
+m5dn.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,False,True
+m5dn.8xlarge,False,Intel,25 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,False,True
+m5dn.large,False,Intel,Up to 25 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,False,True
+m5dn.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,False,True
+m5dn.xlarge,False,Intel,Up to 25 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,False,True
+m5n.12xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,False,True
+m5n.16xlarge,False,Intel,75 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,False,True
+m5n.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,False,True
+m5n.2xlarge,False,Intel,Up to 25 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,False,True
+m5n.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,False,True
+m5n.8xlarge,False,Intel,25 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,False,True
+m5n.large,False,Intel,Up to 25 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,False,True
+m5n.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,False,True
+m5n.xlarge,False,Intel,Up to 25 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,False,True
+m5zn.12xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+m5zn.2xlarge,False,Intel,Up to 25 Gigabit,3170,396.25,3170,396.25,13333,13333,False,True,True,True,True
+m5zn.3xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+m5zn.6xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+m5zn.large,False,Intel,Up to 25 Gigabit,800,100.0,3170,396.25,3333,13333,False,True,True,True,True
+m5zn.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+m5zn.xlarge,False,Intel,Up to 25 Gigabit,1564,195.5,3170,396.25,6667,13333,False,True,True,True,True
+m6a.12xlarge,False,AMD,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,True,True,True,True
+m6a.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+m6a.24xlarge,False,AMD,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,True,True,True
+m6a.2xlarge,False,AMD,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,True,True,True
+m6a.32xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,True,True,True
+m6a.48xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,True,True,True
+m6a.4xlarge,False,AMD,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+m6a.8xlarge,False,AMD,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,True,True,True
+m6a.large,False,AMD,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,False,True,True,True,True
+m6a.metal,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,True,True,True
+m6a.xlarge,False,AMD,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,True,True,True
+m6g.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,50000,50000,True,True,True,True,True
+m6g.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+m6g.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,True,True,True,True,True
+m6g.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,True,True,True,True,True
+m6g.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,True,True,True,True,True
+m6g.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,True,True,True,True,True
+m6g.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,True,True,True,True,True
+m6g.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+m6g.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,True,True,True,True,True
+m6gd.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,50000,50000,True,True,True,True,True
+m6gd.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+m6gd.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,True,True,True,True,True
+m6gd.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,True,True,True,True,True
+m6gd.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,True,True,True,True,True
+m6gd.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,True,True,True,True,True
+m6gd.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,True,True,True,True,True
+m6gd.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+m6gd.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,True,True,True,True,True
+m6i.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+m6i.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m6i.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+m6i.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+m6i.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+m6i.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+m6i.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+m6i.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+m6i.metal,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+m6i.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+m6id.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+m6id.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m6id.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+m6id.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+m6id.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+m6id.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+m6id.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+m6id.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+m6id.metal,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+m6id.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+m6idn.12xlarge,False,Intel,75 Gigabit,37500,4687.5,37500,4687.5,150000,150000,False,True,True,True,True
+m6idn.16xlarge,False,Intel,100 Gigabit,50000,6250.0,50000,6250.0,200000,200000,False,True,True,True,True
+m6idn.24xlarge,False,Intel,150 Gigabit,75000,9375.0,75000,9375.0,300000,300000,False,True,True,True,True
+m6idn.2xlarge,False,Intel,Up to 40 Gigabit,6250,781.25,25000,3125.0,25000,100000,False,True,True,True,True
+m6idn.32xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,True,True
+m6idn.4xlarge,False,Intel,Up to 50 Gigabit,12500,1562.5,25000,3125.0,50000,100000,False,True,True,True,True
+m6idn.8xlarge,False,Intel,50 Gigabit,25000,3125.0,25000,3125.0,100000,100000,False,True,True,True,True
+m6idn.large,False,Intel,Up to 25 Gigabit,1562,195.3125,25000,3125.0,6250,100000,False,True,True,True,True
+m6idn.metal,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,True,True
+m6idn.xlarge,False,Intel,Up to 30 Gigabit,3125,390.625,25000,3125.0,12500,100000,False,True,True,True,True
+m6in.12xlarge,False,Intel,75 Gigabit,37500,4687.5,37500,4687.5,150000,150000,False,True,True,True,True
+m6in.16xlarge,False,Intel,100 Gigabit,50000,6250.0,50000,6250.0,200000,200000,False,True,True,True,True
+m6in.24xlarge,False,Intel,150 Gigabit,75000,9375.0,75000,9375.0,300000,300000,False,True,True,True,True
+m6in.2xlarge,False,Intel,Up to 40 Gigabit,6250,781.25,25000,3125.0,25000,100000,False,True,True,True,True
+m6in.32xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,True,True
+m6in.4xlarge,False,Intel,Up to 50 Gigabit,12500,1562.5,25000,3125.0,50000,100000,False,True,True,True,True
+m6in.8xlarge,False,Intel,50 Gigabit,25000,3125.0,25000,3125.0,100000,100000,False,True,True,True,True
+m6in.large,False,Intel,Up to 25 Gigabit,1562,195.3125,25000,3125.0,6250,100000,False,True,True,True,True
+m6in.metal,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,True,True
+m6in.xlarge,False,Intel,Up to 30 Gigabit,3125,390.625,25000,3125.0,12500,100000,False,True,True,True,True
+m7a.12xlarge,False,AMD,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,True,False,False,True
+m7a.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,False,False,True
+m7a.24xlarge,False,AMD,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,False,False,True
+m7a.2xlarge,False,AMD,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,False,False,True
+m7a.32xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,False,False,True
+m7a.48xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,False,False,True
+m7a.4xlarge,False,AMD,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,False,False,True
+m7a.8xlarge,False,AMD,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,False,False,True
+m7a.large,False,AMD,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,False,True,False,False,True
+m7a.medium,False,AMD,Up to 12.5 Gigabit,325,40.625,10000,1250.0,2500,40000,False,True,False,False,True
+m7a.metal-48xl,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,False,False,True
+m7a.xlarge,False,AMD,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,False,False,True
+m7g.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+m7g.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m7g.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+m7g.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+m7g.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+m7g.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,True,True,True,True,True
+m7g.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,True,True,True,True,True
+m7g.metal,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m7g.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25039999999998,10000,1250.0,6000,40000,True,True,True,True,True
+m7gd.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+m7gd.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m7gd.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+m7gd.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+m7gd.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+m7gd.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,True,True,True,True,True
+m7gd.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,True,True,True,True,True
+m7gd.metal,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m7gd.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25039999999998,10000,1250.0,6000,40000,True,True,True,True,True
+m7i-flex.2xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,True,True,True
+m7i-flex.4xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,True,True,True
+m7i-flex.8xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+m7i-flex.large,False,Intel,Up to 12.5 Gigabit,312,39.0625,10000,1250.0,2500,40000,False,True,True,True,True
+m7i-flex.xlarge,False,Intel,Up to 12.5 Gigabit,625,78.125,10000,1250.0,3600,40000,False,True,True,True,True
+m7i.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+m7i.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+m7i.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+m7i.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+m7i.48xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,True,True,True,True,True
+m7i.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+m7i.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+m7i.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+m7i.metal-24xl,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+m7i.metal-48xl,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,True,True,True,True,True
+m7i.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+mac1.metal,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,80000,80000,False,True,True,True,True
+mac2-m1ultra.metal,False,Apple,10 Gigabit,10000,1250.0,10000,1250.0,55000,55000,False,False,False,False,True
+mac2-m2.metal,False,Apple,10 Gigabit,8000,1000.0,8000,1000.0,55000,55000,False,False,False,True,True
+mac2-m2pro.metal,False,Apple,10 Gigabit,8000,1000.0,8000,1000.0,55000,55000,False,False,False,True,True
+mac2.metal,False,Apple,10 Gigabit,10000,1250.0,10000,1250.0,55000,55000,False,False,True,False,True
+p2.16xlarge,False,Intel,25 Gigabit,10000,1250.0,10000,1250.0,65000,65000,False,True,True,True,True
+p2.8xlarge,False,Intel,10 Gigabit,5000,625.0,5000,625.0,32500,32500,False,True,True,True,True
+p2.xlarge,False,Intel,High,750,93.75,750,93.75,6000,6000,False,True,True,True,True
+p3.16xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,80000,80000,False,True,True,True,True
+p3.2xlarge,False,Intel,Up to 10 Gigabit,1750,218.75,1750,218.75,10000,10000,False,True,True,True,True
+p3.8xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,40000,40000,False,True,True,True,True
+p3dn.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,False,True
+p4d.24xlarge,False,Intel,4x 100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,False,True
+p5.48xlarge,False,AMD,3200 Gigabit,80000,10000.0,80000,10000.0,260000,260000,False,False,False,False,True
+r3.2xlarge,False,Intel,High,1000,125.0,1000,125.0,8000,8000,False,True,True,True,True
+r3.4xlarge,False,Intel,High,2000,250.0,2000,250.0,16000,16000,False,True,True,True,True
+r3.8xlarge,False,Intel,10 Gigabit,-,-,-,-,-,-,False,True,True,True,True
+r3.large,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+r3.xlarge,False,Intel,Moderate,500,62.5,500,62.5,4000,4000,False,True,True,True,True
+r4.16xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,75000,75000,False,True,True,True,True
+r4.2xlarge,False,Intel,Up to 10 Gigabit,1700,212.5,1700,212.5,12000,12000,False,True,True,True,True
+r4.4xlarge,False,Intel,Up to 10 Gigabit,3500,437.5,3500,437.5,18750,18750,False,True,True,True,True
+r4.8xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,37500,37500,False,True,True,True,True
+r4.large,False,Intel,Up to 10 Gigabit,425,53.125,425,53.125,3000,3000,False,True,True,True,True
+r4.xlarge,False,Intel,Up to 10 Gigabit,850,106.25,850,106.25,6000,6000,False,True,True,True,True
+r5.12xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r5.16xlarge,False,Intel,20 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,True,True
+r5.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5.2xlarge,False,Intel,Up to 10 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,True,True
+r5.4xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,True,True
+r5.8xlarge,False,Intel,10 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,True,True
+r5.large,False,Intel,Up to 10 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,True,True
+r5.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5.xlarge,False,Intel,Up to 10 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,True,True
+r5a.12xlarge,False,AMD,10 Gigabit,6780,847.5,6780,847.5,30000,30000,False,True,True,True,True
+r5a.16xlarge,False,AMD,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r5a.24xlarge,False,AMD,20 Gigabit,13570,1696.25,13570,1696.25,60000,60000,False,True,True,True,True
+r5a.2xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,2880,360.0,8333,16000,False,True,True,True,True
+r5a.4xlarge,False,AMD,Up to 10 Gigabit,2880,360.0,2880,360.0,16000,16000,False,True,True,True,True
+r5a.8xlarge,False,AMD,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+r5a.large,False,AMD,Up to 10 Gigabit,650,81.25,2880,360.0,3600,16000,False,True,True,True,True
+r5a.xlarge,False,AMD,Up to 10 Gigabit,1085,135.625,2880,360.0,6000,16000,False,True,True,True,True
+r5ad.12xlarge,False,AMD,10 Gigabit,6780,847.5,6780,847.5,30000,30000,False,True,True,True,True
+r5ad.16xlarge,False,AMD,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r5ad.24xlarge,False,AMD,20 Gigabit,13570,1696.25,13570,1696.25,60000,60000,False,True,True,True,True
+r5ad.2xlarge,False,AMD,Up to 10 Gigabit,1580,197.5,2880,360.0,8333,16000,False,True,True,True,True
+r5ad.4xlarge,False,AMD,Up to 10 Gigabit,2880,360.0,2880,360.0,16000,16000,False,True,True,True,True
+r5ad.8xlarge,False,AMD,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+r5ad.large,False,AMD,Up to 10 Gigabit,650,81.25,2880,360.0,3600,16000,False,True,True,True,True
+r5ad.xlarge,False,AMD,Up to 10 Gigabit,1085,135.625,2880,360.0,6000,16000,False,True,True,True,True
+r5b.12xlarge,False,Intel,12 Gigabit,30000,3750.0,30000,3750.0,130000,130000,False,True,True,True,True
+r5b.16xlarge,False,Intel,20 Gigabit,40000,5000.0,40000,5000.0,173333,173333,False,True,True,True,True
+r5b.24xlarge,False,Intel,25 Gigabit,60000,7500.0,60000,7500.0,260000,260000,False,True,True,True,True
+r5b.2xlarge,False,Intel,Up to 10 Gigabit,5000,625.0,10000,1250.0,21667,43333,False,True,True,True,True
+r5b.4xlarge,False,Intel,Up to 10 Gigabit,10000,1250.0,10000,1250.0,43333,43333,False,True,True,True,True
+r5b.8xlarge,False,Intel,10 Gigabit,20000,2500.0,20000,2500.0,86667,86667,False,True,True,True,True
+r5b.large,False,Intel,Up to 10 Gigabit,1250,156.25,10000,1250.0,5417,43333,False,True,True,True,True
+r5b.metal,False,Intel,25 Gigabit,60000,7500.0,60000,7500.0,260000,260000,False,True,True,True,True
+r5b.xlarge,False,Intel,Up to 10 Gigabit,2500,312.5,10000,1250.0,10833,43333,False,True,True,True,True
+r5d.12xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r5d.16xlarge,False,Intel,20 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,True,True
+r5d.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5d.2xlarge,False,Intel,Up to 10 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,True,True
+r5d.4xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,True,True
+r5d.8xlarge,False,Intel,10 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,True,True
+r5d.large,False,Intel,Up to 10 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,True,True
+r5d.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5d.xlarge,False,Intel,Up to 10 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,True,True
+r5dn.12xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r5dn.16xlarge,False,Intel,75 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,True,True
+r5dn.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5dn.2xlarge,False,Intel,Up to 25 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,True,True
+r5dn.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,True,True
+r5dn.8xlarge,False,Intel,25 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,True,True
+r5dn.large,False,Intel,Up to 25 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,True,True
+r5dn.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5dn.xlarge,False,Intel,Up to 25 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,True,True
+r5n.12xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r5n.16xlarge,False,Intel,75 Gigabit,13600,1700.0,13600,1700.0,60000,60000,False,True,True,True,True
+r5n.24xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5n.2xlarge,False,Intel,Up to 25 Gigabit,2300,287.5,4750,593.75,12000,18750,False,True,True,True,True
+r5n.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,18750,18750,False,True,True,True,True
+r5n.8xlarge,False,Intel,25 Gigabit,6800,850.0,6800,850.0,30000,30000,False,True,True,True,True
+r5n.large,False,Intel,Up to 25 Gigabit,650,81.25,4750,593.75,3600,18750,False,True,True,True,True
+r5n.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r5n.xlarge,False,Intel,Up to 25 Gigabit,1150,143.75,4750,593.75,6000,18750,False,True,True,True,True
+r6a.12xlarge,False,AMD,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,True,True,True,True
+r6a.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+r6a.24xlarge,False,AMD,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,True,True,True
+r6a.2xlarge,False,AMD,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,True,True,True
+r6a.32xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,True,True,True
+r6a.48xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,True,True,True
+r6a.4xlarge,False,AMD,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,True,True,True
+r6a.8xlarge,False,AMD,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,True,True,True
+r6a.large,False,AMD,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,False,True,True,True,True
+r6a.metal,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,True,True,True
+r6a.xlarge,False,AMD,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,True,True,True
+r6g.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,50000,50000,True,True,True,True,True
+r6g.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+r6g.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,True,True,True,True,True
+r6g.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,True,True,True,True,True
+r6g.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,True,True,True,True,True
+r6g.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,True,True,True,True,True
+r6g.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,True,True,True,True,True
+r6g.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,True,True,True,True,True
+r6g.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,True,True,True,True,True
+r6gd.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,50000,50000,False,True,True,True,True
+r6gd.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r6gd.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,False,True,True,True,True
+r6gd.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+r6gd.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+r6gd.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,False,True,True,True,True
+r6gd.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,False,True,True,True,True
+r6gd.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+r6gd.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,False,True,True,True,True
+r6i.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+r6i.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+r6i.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+r6i.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+r6i.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+r6i.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+r6i.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+r6i.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+r6i.metal,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+r6i.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+r6id.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+r6id.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+r6id.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+r6id.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+r6id.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+r6id.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+r6id.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+r6id.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+r6id.metal,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,True,True,True,True,True
+r6id.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+r6idn.12xlarge,False,Intel,75 Gigabit,37500,4687.5,37500,4687.5,150000,150000,False,True,True,False,True
+r6idn.16xlarge,False,Intel,100 Gigabit,50000,6250.0,50000,6250.0,200000,200000,False,True,True,False,True
+r6idn.24xlarge,False,Intel,150 Gigabit,75000,9375.0,75000,9375.0,300000,300000,False,True,True,False,True
+r6idn.2xlarge,False,Intel,Up to 40 Gigabit,6250,781.25,25000,3125.0,25000,100000,False,True,True,False,True
+r6idn.32xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,False,True
+r6idn.4xlarge,False,Intel,Up to 50 Gigabit,12500,1562.5,25000,3125.0,50000,100000,False,True,True,False,True
+r6idn.8xlarge,False,Intel,50 Gigabit,25000,3125.0,25000,3125.0,100000,100000,False,True,True,False,True
+r6idn.large,False,Intel,Up to 25 Gigabit,1562,195.3125,25000,3125.0,6250,100000,False,True,True,False,True
+r6idn.metal,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,False,True
+r6idn.xlarge,False,Intel,Up to 30 Gigabit,3125,390.625,25000,3125.0,12500,100000,False,True,True,False,True
+r6in.12xlarge,False,Intel,75 Gigabit,37500,4687.5,37500,4687.5,150000,150000,False,True,True,False,True
+r6in.16xlarge,False,Intel,100 Gigabit,50000,6250.0,50000,6250.0,200000,200000,False,True,True,False,True
+r6in.24xlarge,False,Intel,150 Gigabit,75000,9375.0,75000,9375.0,300000,300000,False,True,True,False,True
+r6in.2xlarge,False,Intel,Up to 40 Gigabit,6250,781.25,25000,3125.0,25000,100000,False,True,True,False,True
+r6in.32xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,False,True
+r6in.4xlarge,False,Intel,Up to 50 Gigabit,12500,1562.5,25000,3125.0,50000,100000,False,True,True,False,True
+r6in.8xlarge,False,Intel,50 Gigabit,25000,3125.0,25000,3125.0,100000,100000,False,True,True,False,True
+r6in.large,False,Intel,Up to 25 Gigabit,1562,195.3125,25000,3125.0,6250,100000,False,True,True,False,True
+r6in.metal,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,400000,400000,False,True,True,False,True
+r6in.xlarge,False,Intel,Up to 30 Gigabit,3125,390.625,25000,3125.0,12500,100000,False,True,True,False,True
+r7a.12xlarge,False,AMD,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,True,False,False,True
+r7a.16xlarge,False,AMD,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,False,False,True
+r7a.24xlarge,False,AMD,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,True,False,False,True
+r7a.2xlarge,False,AMD,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,True,False,False,True
+r7a.32xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,False,False,True
+r7a.48xlarge,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,False,False,True
+r7a.4xlarge,False,AMD,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,False,False,True
+r7a.8xlarge,False,AMD,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,False,False,True
+r7a.large,False,AMD,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,False,True,False,False,True
+r7a.medium,False,AMD,Up to 12.5 Gigabit,325,40.625,10000,1250.0,2500,40000,False,True,False,False,True
+r7a.metal-48xl,False,AMD,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,True,False,False,True
+r7a.xlarge,False,AMD,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,True,False,False,True
+r7g.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+r7g.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+r7g.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+r7g.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+r7g.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+r7g.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,True,True,True,True,True
+r7g.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,True,True,True,True,True
+r7g.metal,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+r7g.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25039999999998,10000,1250.0,6000,40000,True,True,True,True,True
+r7gd.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+r7gd.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+r7gd.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+r7gd.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+r7gd.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+r7gd.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,True,True,True,True,True
+r7gd.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,True,True,True,True,True
+r7gd.metal,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,True,True,True
+r7gd.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25039999999998,10000,1250.0,6000,40000,True,True,True,True,True
+r7i.12xlarge,False,Intel,18.75 Gigabit,15000,1875.0,15000,1875.0,60000,60000,True,True,True,True,True
+r7i.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,True,True,True,True,True
+r7i.24xlarge,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+r7i.2xlarge,False,Intel,Up to 12.5 Gigabit,2500,312.5,10000,1250.0,12000,40000,True,True,True,True,True
+r7i.48xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,True,True,True,True,True
+r7i.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,True,True,True,True,True
+r7i.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,True,True,True,True,True
+r7i.large,False,Intel,Up to 12.5 Gigabit,650,81.25,10000,1250.0,3600,40000,True,True,True,True,True
+r7i.metal-24xl,False,Intel,37.5 Gigabit,30000,3750.0,30000,3750.0,120000,120000,True,True,True,True,True
+r7i.metal-48xl,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,True,True,True,True,True
+r7i.xlarge,False,Intel,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,True,True,True,True,True
+r7iz.12xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,76000,76000,False,True,False,False,True
+r7iz.16xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,False,False,True
+r7iz.2xlarge,False,Intel,Up to 12.5 Gigabit,3168,396.0,10000,1250.0,13333,40000,False,True,False,False,True
+r7iz.32xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,False,False,True
+r7iz.4xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,True,False,False,True
+r7iz.8xlarge,False,Intel,12.5 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,True,False,False,True
+r7iz.large,False,Intel,Up to 12.5 Gigabit,792,99.0,10000,1250.0,3600,40000,False,True,False,False,True
+r7iz.metal-16xl,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,True,False,False,True
+r7iz.metal-32xl,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,160000,160000,False,True,False,False,True
+r7iz.xlarge,False,Intel,Up to 12.5 Gigabit,1584,198.0,10000,1250.0,6667,40000,False,True,False,False,True
+r8g.12xlarge,False,AWS,22.5 Gigabit,15000,1875.0,15000,1875.0,60000,60000,False,False,False,False,True
+r8g.16xlarge,False,AWS,30 Gigabit,20000,2500.0,20000,2500.0,80000,80000,False,False,False,False,True
+r8g.24xlarge,False,AWS,40 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,False,False,False,True
+r8g.2xlarge,False,AWS,Up to 15 Gigabit,2500,312.5,10000,1250.0,12000,40000,False,False,False,False,True
+r8g.48xlarge,False,AWS,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,False,False,False,True
+r8g.4xlarge,False,AWS,Up to 15 Gigabit,5000,625.0,10000,1250.0,20000,40000,False,False,False,False,True
+r8g.8xlarge,False,AWS,15 Gigabit,10000,1250.0,10000,1250.0,40000,40000,False,False,False,False,True
+r8g.large,False,AWS,Up to 12.5 Gigabit,630,78.75,10000,1250.0,3600,40000,False,False,False,False,True
+r8g.medium,False,AWS,Up to 12.5 Gigabit,315,39.375,10000,1250.0,2500,40000,False,False,False,False,True
+r8g.metal-24xl,False,AWS,40 Gigabit,30000,3750.0,30000,3750.0,120000,120000,False,False,False,False,True
+r8g.metal-48xl,False,AWS,50 Gigabit,40000,5000.0,40000,5000.0,240000,240000,False,False,False,False,True
+r8g.xlarge,False,AWS,Up to 12.5 Gigabit,1250,156.25,10000,1250.0,6000,40000,False,False,False,False,True
+t1.micro,False,Intel,Very Low,-,-,-,-,-,-,False,True,True,True,True
+t2.2xlarge,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+t2.large,False,Intel,Low to Moderate,-,-,-,-,-,-,False,True,True,True,True
+t2.medium,False,Intel,Low to Moderate,-,-,-,-,-,-,False,True,True,True,True
+t2.micro,True,Intel,Low to Moderate,-,-,-,-,-,-,False,True,True,True,True
+t2.nano,False,Intel,Low to Moderate,-,-,-,-,-,-,False,True,True,True,True
+t2.small,False,Intel,Low to Moderate,-,-,-,-,-,-,False,True,True,True,True
+t2.xlarge,False,Intel,Moderate,-,-,-,-,-,-,False,True,True,True,True
+t3.2xlarge,False,Intel,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,True,True,True,True,True
+t3.large,False,Intel,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,True,True,True,True,True
+t3.medium,False,Intel,Up to 5 Gigabit,347,43.375,2085,260.625,2000,11800,True,True,True,True,True
+t3.micro,False,Intel,Up to 5 Gigabit,87,10.875,2085,260.625,500,11800,True,True,True,True,True
+t3.nano,False,Intel,Up to 5 Gigabit,43,5.375,2085,260.625,250,11800,True,True,True,True,True
+t3.small,False,Intel,Up to 5 Gigabit,174,21.75,2085,260.625,1000,11800,True,True,True,True,True
+t3.xlarge,False,Intel,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,True,True,True,True,True
+t3a.2xlarge,False,AMD,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,False,True,True,True,True
+t3a.large,False,AMD,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,False,True,True,True,True
+t3a.medium,False,AMD,Up to 5 Gigabit,350,43.75,2085,260.625,2000,11800,False,True,True,True,True
+t3a.micro,False,AMD,Up to 5 Gigabit,90,11.25,2085,260.625,500,11800,False,True,True,True,True
+t3a.nano,False,AMD,Up to 5 Gigabit,45,5.625,2085,260.625,250,11800,False,True,True,True,True
+t3a.small,False,AMD,Up to 5 Gigabit,175,21.875,2085,260.625,1000,11800,False,True,True,True,True
+t3a.xlarge,False,AMD,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,False,True,True,True,True
+t4g.2xlarge,False,AWS,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,True,True,True,True,True
+t4g.large,False,AWS,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,True,True,True,True,True
+t4g.medium,False,AWS,Up to 5 Gigabit,347,43.375,2085,260.625,2000,11800,True,True,True,True,True
+t4g.micro,False,AWS,Up to 5 Gigabit,87,10.875,2085,260.625,500,11800,True,True,True,True,True
+t4g.nano,False,AWS,Up to 5 Gigabit,43,5.375,2085,260.625,250,11800,True,True,True,True,True
+t4g.small,False,AWS,Up to 5 Gigabit,174,21.75,2085,260.625,1000,11800,True,True,True,True,True
+t4g.xlarge,False,AWS,Up to 5 Gigabit,695,86.875,2780,347.5,4000,15700,True,True,True,True,True
+trn1.2xlarge,False,Intel,Up to 12.5 Gigabit,5000,625.0,20000,2500.0,16250,65000,False,False,False,False,True
+trn1.32xlarge,False,Intel,8x 100 Gigabit,80000,10000.0,80000,10000.0,260000,260000,False,False,False,False,True
+trn1n.32xlarge,False,Intel,16x 100 Gigabit,80000,10000.0,80000,10000.0,260000,260000,False,False,False,False,True
+u-12tb1.112xlarge,False,Intel,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,False,True,True,True,True
+u-18tb1.112xlarge,False,Intel,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,False,False,False,False,True
+u-24tb1.112xlarge,False,Intel,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,False,False,False,False,True
+u-3tb1.56xlarge,False,Intel,50 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+u-6tb1.112xlarge,False,Intel,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,False,True,True,True,True
+u-6tb1.56xlarge,False,Intel,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,False,True,True,True,True
+u-9tb1.112xlarge,False,Intel,100 Gigabit,38000,4750.0,38000,4750.0,160000,160000,False,True,True,False,True
+u7i-12tb.224xlarge,False,Intel,100 Gigabit,60000,7500.0,60000,7500.0,420000,420000,False,False,False,False,True
+u7in-16tb.224xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,420000,420000,False,False,False,True,True
+u7in-24tb.224xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,420000,420000,False,False,False,False,True
+u7in-32tb.224xlarge,False,Intel,200 Gigabit,100000,12500.0,100000,12500.0,420000,420000,False,False,False,False,True
+vt1.24xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,False,True
+vt1.3xlarge,False,Intel,3.12 Gigabit,2375,296.875,4750,593.75,10000,20000,False,True,False,False,True
+vt1.6xlarge,False,Intel,6.25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,False,False,True
+x1.16xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,40000,40000,False,True,True,True,True
+x1.32xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,80000,80000,False,True,True,True,True
+x1e.16xlarge,False,Intel,10 Gigabit,7000,875.0,7000,875.0,40000,40000,False,True,True,True,True
+x1e.2xlarge,False,Intel,Up to 10 Gigabit,1000,125.0,1000,125.0,7400,7400,False,True,True,True,True
+x1e.32xlarge,False,Intel,25 Gigabit,14000,1750.0,14000,1750.0,80000,80000,False,True,True,True,True
+x1e.4xlarge,False,Intel,Up to 10 Gigabit,1750,218.75,1750,218.75,10000,10000,False,True,True,True,True
+x1e.8xlarge,False,Intel,Up to 10 Gigabit,3500,437.5,3500,437.5,20000,20000,False,True,True,True,True
+x1e.xlarge,False,Intel,Up to 10 Gigabit,500,62.5,500,62.5,3700,3700,False,True,True,True,True
+x2gd.12xlarge,False,AWS,20 Gigabit,14250,1781.25,14250,1781.25,60000,60000,False,False,False,False,True
+x2gd.16xlarge,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,False,False,False,True
+x2gd.2xlarge,False,AWS,Up to 10 Gigabit,2375,296.875,4750,593.75,12000,20000,False,False,False,False,True
+x2gd.4xlarge,False,AWS,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,False,False,False,True
+x2gd.8xlarge,False,AWS,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,False,False,False,True
+x2gd.large,False,AWS,Up to 10 Gigabit,630,78.75,4750,593.75,3600,20000,False,False,False,False,True
+x2gd.medium,False,AWS,Up to 10 Gigabit,315,39.375,4750,593.75,2500,20000,False,False,False,False,True
+x2gd.metal,False,AWS,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,False,False,False,True
+x2gd.xlarge,False,AWS,Up to 10 Gigabit,1188,148.5,4750,593.75,6000,20000,False,False,False,False,True
+x2idn.16xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,173333,173333,True,True,True,True,True
+x2idn.24xlarge,False,Intel,75 Gigabit,60000,7500.0,60000,7500.0,260000,260000,True,True,True,True,True
+x2idn.32xlarge,False,Intel,100 Gigabit,80000,10000.0,80000,10000.0,260000,260000,True,True,True,True,True
+x2idn.metal,False,Intel,100 Gigabit,80000,10000.0,80000,10000.0,260000,260000,True,True,True,True,True
+x2iedn.16xlarge,False,Intel,50 Gigabit,40000,5000.0,40000,5000.0,130000,130000,True,True,True,True,True
+x2iedn.24xlarge,False,Intel,75 Gigabit,60000,7500.0,60000,7500.0,195000,195000,True,True,True,True,True
+x2iedn.2xlarge,False,Intel,Up to 25 Gigabit,5000,625.0,20000,2500.0,16250,65000,True,True,True,True,True
+x2iedn.32xlarge,False,Intel,100 Gigabit,80000,10000.0,80000,10000.0,260000,260000,True,True,True,True,True
+x2iedn.4xlarge,False,Intel,Up to 25 Gigabit,10000,1250.0,20000,2500.0,32500,65000,True,True,True,True,True
+x2iedn.8xlarge,False,Intel,25 Gigabit,20000,2500.0,20000,2500.0,65000,65000,True,True,True,True,True
+x2iedn.metal,False,Intel,100 Gigabit,80000,10000.0,80000,10000.0,260000,260000,True,True,True,True,True
+x2iedn.xlarge,False,Intel,Up to 25 Gigabit,2500,312.5,20000,2500.0,8125,65000,True,True,True,True,True
+x2iezn.12xlarge,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,False,True
+x2iezn.2xlarge,False,Intel,Up to 25 Gigabit,3170,396.25,3170,396.25,13333,13333,False,True,False,False,True
+x2iezn.4xlarge,False,Intel,Up to 25 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,False,False,True
+x2iezn.6xlarge,False,Intel,50 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,False,False,True
+x2iezn.8xlarge,False,Intel,75 Gigabit,12000,1500.0,12000,1500.0,55000,55000,False,True,False,False,True
+x2iezn.metal,False,Intel,100 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,False,False,True
+z1d.12xlarge,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+z1d.2xlarge,False,Intel,Up to 10 Gigabit,3170,396.25,3170,396.25,13333,13333,False,True,True,True,True
+z1d.3xlarge,False,Intel,Up to 10 Gigabit,4750,593.75,4750,593.75,20000,20000,False,True,True,True,True
+z1d.6xlarge,False,Intel,12 Gigabit,9500,1187.5,9500,1187.5,40000,40000,False,True,True,True,True
+z1d.large,False,Intel,Up to 10 Gigabit,800,100.0,3170,396.25,3333,13333,False,True,True,True,True
+z1d.metal,False,Intel,25 Gigabit,19000,2375.0,19000,2375.0,80000,80000,False,True,True,True,True
+z1d.xlarge,False,Intel,Up to 10 Gigabit,1580,197.5,3170,396.25,6667,13333,False,True,True,True,True

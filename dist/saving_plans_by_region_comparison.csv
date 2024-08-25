@@ -1,0 +1,13 @@
+Plan,Asia Pacific (Malaysia) - ap-southeast-5,Asia Pacific (Singapore) - ap-southeast-1,Asia Pacific (Sydney) - ap-southeast-2,US East (N. Virginia) - us-east-1,Asia Pacific (Tokyo) - ap-northeast-1
+1 year All Upfront Compute Savings Plan - Family: c7g - Instance: c7g.xlarge,0.1003,0.118,0.1291,0.097,0.1289
+1 year All Upfront Compute Savings Plan - Family: r6i - Instance: r6i.xlarge,0.17473,0.20556,0.20384,0.1704,0.20556
+1 year All Upfront Compute Savings Plan - Family: t4g - Instance: t4g.xlarge,0.103,0.1144,0.1235,0.0905,0.1268
+1 year No Upfront Compute Savings Plan - Family: c7g - Instance: c7g.xlarge,0.1075,0.1265,0.1384,0.104,0.1381
+1 year No Upfront Compute Savings Plan - Family: r6i - Instance: r6i.xlarge,0.18721,0.22025,0.2184,0.18257,0.22025
+1 year No Upfront Compute Savings Plan - Family: t4g - Instance: t4g.xlarge,0.1103,0.1226,0.1323,0.0969,0.1358
+1 year Partial Upfront Compute Savings Plan - Family: c7g - Instance: c7g.xlarge,0.1024,-,-,0.099,-
+1 year Partial Upfront Compute Savings Plan - Family: r6i - Instance: r6i.xlarge,0.1783,0.20976,0.208,0.17388,0.20976
+1 year Partial Upfront Compute Savings Plan - Family: t4g - Instance: t4g.xlarge,0.1051,0.1168,0.126,0.0923,0.1293
+3 year Partial Upfront Compute Savings Plan - Family: c7g - Instance: c7g.xlarge,0.0679,0.0799,0.0901,0.065,0.0877
+3 year Partial Upfront Compute Savings Plan - Family: r6i - Instance: r6i.xlarge,0.12481,0.14683,0.14505,0.12172,0.14683
+3 year Partial Upfront Compute Savings Plan - Family: t4g - Instance: t4g.xlarge,0.0688,0.0765,0.0874,0.0619,0.0909

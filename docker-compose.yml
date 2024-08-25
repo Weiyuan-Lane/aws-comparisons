@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  aws-comparisons:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    working_dir: /app
+    container_name: aws-comparisons
+    volumes:
+      - .:/app
